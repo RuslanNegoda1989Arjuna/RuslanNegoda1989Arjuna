@@ -2,6 +2,9 @@
 
 ## I,m Junior FRONT END DEVELOPER
 
+Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML-ec3e0e?style=for-the-badge&logo=HTML5&logoColor=fff)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
