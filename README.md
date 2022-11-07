@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-ReactJS-11c9ee?style=flat&logo=React&logoColor=fff)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![VSCODE](https://img.shields.io/badge/VSCode-1f425f?style=flat&logo=visualstudiocode&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-Git-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
+![GitHub](https://img.shields.io/badge/-GitHub-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
 
 ### Follow me
 
