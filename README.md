@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F7351AFF&lines=I+am+Junior+Front+End+Developer+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73B18&lines=I+am+Junior+Front+End+Developer+.)](https://git.io/typing-svg)
 
 ### Languages and Tools
 
