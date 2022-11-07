@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-ReactJS-11c9ee?style=flat&logo=React&logoColor=fff)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![VSCODE](https://img.shields.io/badge/VSCode-1f425f?style=flat&logo=visualstudiocode&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-0f72b5?style=flat&logo=Git&logoColor=fff?logoWidth=60)
+![Git](https://img.shields.io/badge/-Git-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
