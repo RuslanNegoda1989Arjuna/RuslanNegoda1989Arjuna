@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there my name is Ruslan👋
 
-## I,m Junior FRONT END DEVELOPER
+## I,m JUNIOR FRONT END DEVELOPER
 
 ### Languages and Tools
 
@@ -11,14 +11,10 @@
 ![React](https://img.shields.io/badge/-ReactJS-11c9ee?style=flat&logo=React&logoColor=fff)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![VSCODE](https://img.shields.io/badge/VSCode-1f425f?style=flat&logo=visualstudiocode&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
+![GitHub](https://img.shields.io/badge/-Git-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-004f76?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/Ruslan_Negoda)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/ruslan-negoda-640985225/)
