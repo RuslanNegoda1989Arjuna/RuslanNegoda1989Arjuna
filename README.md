@@ -1,4 +1,4 @@
-### Hi there my name is Ruslan👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
 
 ## I,m JUNIOR FRONT END DEVELOPER
 
@@ -16,7 +16,6 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-004f76?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/Ruslan_Negoda)
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/ruslan-negoda-640985225/)
 
 | <a href="https://github.com/RuslanNegoda1989Arjuna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanNegoda1989Arjuna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/RuslanNegoda1989Arjuna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanNegoda1989Arjuna&layout=compact&theme=buefy&hide_border=true" /></a> |
